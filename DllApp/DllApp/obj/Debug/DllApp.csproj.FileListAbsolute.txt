@@ -1,0 +1,5 @@
+E:\P509\C#\DllApp\DllApp\bin\Debug\DllApp.dll
+E:\P509\C#\DllApp\DllApp\bin\Debug\DllApp.pdb
+E:\P509\C#\DllApp\DllApp\obj\Debug\DllApp.csprojAssemblyReference.cache
+E:\P509\C#\DllApp\DllApp\obj\Debug\DllApp.dll
+E:\P509\C#\DllApp\DllApp\obj\Debug\DllApp.pdb
